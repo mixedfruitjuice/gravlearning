@@ -1,0 +1,11 @@
+email: mail@robbinbakker.com
+fullname: 'These guys'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$0WheoKcCAdcMIH.3MnK1I.2DunrXb4x7QKQf5VioSSpSm4Z/0uqXG
